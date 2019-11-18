@@ -1,1 +1,10 @@
-{"name":"abc"}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [121.6, 23.1]
+  },
+  "properties": {
+    "name": "Taiwan"
+  }
+}
